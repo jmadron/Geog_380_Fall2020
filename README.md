@@ -1,11 +1,10 @@
-# Web-Mapping-Curriculum
+# Geovisualization and Design
 
-Instructor: Dan Swick, dan@mapbox.com
-<br> TA: Megan Danielson, megan.danielson@mapbox.com
+Instructor: Justin Madron, jmadron@richmond.edu
 <br>Office Hours: By appointment only 
 
-Class Meetings:	Thursdays, 6:30pm–9:30pm, 01/16 - 03/05
-<br>Room/Bldg:  Harney G24
+Class Meetings:	Tuesday/Thursdays, 10:30pm–11:15pm
+
 
 ----
 
